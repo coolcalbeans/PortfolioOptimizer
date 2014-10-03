@@ -75,7 +75,7 @@ def getNormalizedTickerReturns(dt_start, dt_end, ls_symbols):
     
     # Getting the numpy ndarray of close prices.
     na_price = d_data['close'].values    
-    # Normalizing the prices to start at 1 and see relative returns
+    # Normalizing the prices to start at 1 and hence see relative returns
     na_normalized_price = na_price / na_price[0, :]
 
     # Converting the normalized prize into a Pandas dataframe
