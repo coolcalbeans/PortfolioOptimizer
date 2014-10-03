@@ -7,4 +7,4 @@ The optmization approach uses a brute force method of checking for the maximum s
 
 To Do:
 
-1) Error Handling for the programs in terms of missing Tickers or Time period data.
+1) Error Handling for the programs for missing Tickers or Time period data.
