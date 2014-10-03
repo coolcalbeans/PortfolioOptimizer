@@ -3,7 +3,7 @@
 Created on Sat Sep 27 14:32:53 2014
 
 @author: Viju
-@summary:   Portfoilio Optimizer projected submitted as a part of Computational Investing Coursera Course 
+@summary:   Portfoilio Optimizer project submitted as a part of Computational Investing Coursera Course 
             Offered by Prof. Tucker Balch from Georgia Tech. 
 @References: Using snippets of code from tutorial1.py written by Sourabh Bajaj
 
