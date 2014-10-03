@@ -28,7 +28,7 @@ def simulate(dt_start, dt_end, ls_symbols, ls_initPort):
     df_prices['Portfolio'] = 0.0
     df_prices['Port_Return'] = 0.0
 
-    # d_prtfoliofWght is a dictionary with the ticker symbols above.
+    # d_prtfoliofWght is a dictionary with the Tickers/Symbols above.
     d_prtfoliofWght = dict(zip(ls_symbols,ls_initPort))
     for symb in ls_symbols:
         df_prices[symb] = d_prtfoliofWght[symb] * df_prices[symb]
