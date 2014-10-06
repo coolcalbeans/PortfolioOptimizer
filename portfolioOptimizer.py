@@ -9,12 +9,12 @@ Created on Sat Sep 27 14:32:53 2014
 
 """
 from __future__ import division
+from math import sqrt
 # QSTK Imports - Qunat Software Tool Kit is a set of Equity analysis toolkit created by Georgia Tech
 import QSTK.qstkutil.qsdateutil as du
 import QSTK.qstkutil.DataAccess as da
 
 # Third Party Imports
-from math import sqrt
 import itertools
 import datetime as dt
 import numpy as np
